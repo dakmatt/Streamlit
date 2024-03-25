@@ -1,0 +1,1024 @@
+,R-squared
+"('CSR Strategy Score',)",0.012
+"('Community Score',)",0.018
+"('ESG Controversies Score',)",0.000
+"('Emissions Score',)",0.000
+"('Environmental Innovation Score',)",0.005
+"('Human Rights Score',)",0.024
+"('Product Responsibility Score',)",0.005
+"('Resource Use Score',)",0.020
+"('Shareholders Score',)",0.007
+"('Workforce Score',)",0.008
+"('CSR Strategy Score', 'Community Score')",0.022
+"('CSR Strategy Score', 'ESG Controversies Score')",0.013
+"('CSR Strategy Score', 'Emissions Score')",0.019
+"('CSR Strategy Score', 'Environmental Innovation Score')",0.024
+"('CSR Strategy Score', 'Human Rights Score')",0.026
+"('CSR Strategy Score', 'Product Responsibility Score')",0.014
+"('CSR Strategy Score', 'Resource Use Score')",0.021
+"('CSR Strategy Score', 'Shareholders Score')",0.025
+"('CSR Strategy Score', 'Workforce Score')",0.013
+"('Community Score', 'ESG Controversies Score')",0.018
+"('Community Score', 'Emissions Score')",0.020
+"('Community Score', 'Environmental Innovation Score')",0.026
+"('Community Score', 'Human Rights Score')",0.030
+"('Community Score', 'Product Responsibility Score')",0.018
+"('Community Score', 'Resource Use Score')",0.027
+"('Community Score', 'Shareholders Score')",0.026
+"('Community Score', 'Workforce Score')",0.018
+"('ESG Controversies Score', 'Emissions Score')",0.000
+"('ESG Controversies Score', 'Environmental Innovation Score')",0.005
+"('ESG Controversies Score', 'Human Rights Score')",0.024
+"('ESG Controversies Score', 'Product Responsibility Score')",0.005
+"('ESG Controversies Score', 'Resource Use Score')",0.021
+"('ESG Controversies Score', 'Shareholders Score')",0.007
+"('ESG Controversies Score', 'Workforce Score')",0.008
+"('Emissions Score', 'Environmental Innovation Score')",0.006
+"('Emissions Score', 'Human Rights Score')",0.031
+"('Emissions Score', 'Product Responsibility Score')",0.005
+"('Emissions Score', 'Resource Use Score')",0.033
+"('Emissions Score', 'Shareholders Score')",0.007
+"('Emissions Score', 'Workforce Score')",0.012
+"('Environmental Innovation Score', 'Human Rights Score')",0.035
+"('Environmental Innovation Score', 'Product Responsibility Score')",0.013
+"('Environmental Innovation Score', 'Resource Use Score')",0.034
+"('Environmental Innovation Score', 'Shareholders Score')",0.010
+"('Environmental Innovation Score', 'Workforce Score')",0.017
+"('Human Rights Score', 'Product Responsibility Score')",0.024
+"('Human Rights Score', 'Resource Use Score')",0.030
+"('Human Rights Score', 'Shareholders Score')",0.031
+"('Human Rights Score', 'Workforce Score')",0.024
+"('Product Responsibility Score', 'Resource Use Score')",0.020
+"('Product Responsibility Score', 'Shareholders Score')",0.011
+"('Product Responsibility Score', 'Workforce Score')",0.009
+"('Resource Use Score', 'Shareholders Score')",0.027
+"('Resource Use Score', 'Workforce Score')",0.020
+"('Shareholders Score', 'Workforce Score')",0.015
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score')",0.023
+"('CSR Strategy Score', 'Community Score', 'Emissions Score')",0.034
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score')",0.031
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score')",0.022
+"('CSR Strategy Score', 'Community Score', 'Resource Use Score')",0.027
+"('CSR Strategy Score', 'Community Score', 'Shareholders Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'Workforce Score')",0.022
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score')",0.019
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score')",0.025
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score')",0.027
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score')",0.014
+"('CSR Strategy Score', 'ESG Controversies Score', 'Resource Use Score')",0.022
+"('CSR Strategy Score', 'ESG Controversies Score', 'Shareholders Score')",0.025
+"('CSR Strategy Score', 'ESG Controversies Score', 'Workforce Score')",0.014
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score')",0.027
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score')",0.043
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score')",0.023
+"('CSR Strategy Score', 'Emissions Score', 'Resource Use Score')",0.039
+"('CSR Strategy Score', 'Emissions Score', 'Shareholders Score')",0.032
+"('CSR Strategy Score', 'Emissions Score', 'Workforce Score')",0.025
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score')",0.041
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.027
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Resource Use Score')",0.036
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Shareholders Score')",0.035
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Workforce Score')",0.026
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score')",0.027
+"('CSR Strategy Score', 'Human Rights Score', 'Resource Use Score')",0.030
+"('CSR Strategy Score', 'Human Rights Score', 'Shareholders Score')",0.036
+"('CSR Strategy Score', 'Human Rights Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'Product Responsibility Score', 'Resource Use Score')",0.021
+"('CSR Strategy Score', 'Product Responsibility Score', 'Shareholders Score')",0.026
+"('CSR Strategy Score', 'Product Responsibility Score', 'Workforce Score')",0.014
+"('CSR Strategy Score', 'Resource Use Score', 'Shareholders Score')",0.031
+"('CSR Strategy Score', 'Resource Use Score', 'Workforce Score')",0.021
+"('CSR Strategy Score', 'Shareholders Score', 'Workforce Score')",0.026
+"('Community Score', 'ESG Controversies Score', 'Emissions Score')",0.020
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score')",0.026
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score')",0.030
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score')",0.018
+"('Community Score', 'ESG Controversies Score', 'Resource Use Score')",0.028
+"('Community Score', 'ESG Controversies Score', 'Shareholders Score')",0.026
+"('Community Score', 'ESG Controversies Score', 'Workforce Score')",0.018
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score')",0.027
+"('Community Score', 'Emissions Score', 'Human Rights Score')",0.041
+"('Community Score', 'Emissions Score', 'Product Responsibility Score')",0.021
+"('Community Score', 'Emissions Score', 'Resource Use Score')",0.044
+"('Community Score', 'Emissions Score', 'Shareholders Score')",0.028
+"('Community Score', 'Emissions Score', 'Workforce Score')",0.025
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score')",0.042
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.027
+"('Community Score', 'Environmental Innovation Score', 'Resource Use Score')",0.041
+"('Community Score', 'Environmental Innovation Score', 'Shareholders Score')",0.032
+"('Community Score', 'Environmental Innovation Score', 'Workforce Score')",0.028
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score')",0.030
+"('Community Score', 'Human Rights Score', 'Resource Use Score')",0.033
+"('Community Score', 'Human Rights Score', 'Shareholders Score')",0.037
+"('Community Score', 'Human Rights Score', 'Workforce Score')",0.030
+"('Community Score', 'Product Responsibility Score', 'Resource Use Score')",0.027
+"('Community Score', 'Product Responsibility Score', 'Shareholders Score')",0.026
+"('Community Score', 'Product Responsibility Score', 'Workforce Score')",0.018
+"('Community Score', 'Resource Use Score', 'Shareholders Score')",0.035
+"('Community Score', 'Resource Use Score', 'Workforce Score')",0.028
+"('Community Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score')",0.006
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score')",0.031
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score')",0.005
+"('ESG Controversies Score', 'Emissions Score', 'Resource Use Score')",0.033
+"('ESG Controversies Score', 'Emissions Score', 'Shareholders Score')",0.007
+"('ESG Controversies Score', 'Emissions Score', 'Workforce Score')",0.012
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score')",0.036
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.013
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score')",0.035
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score')",0.010
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Workforce Score')",0.018
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score')",0.025
+"('ESG Controversies Score', 'Human Rights Score', 'Resource Use Score')",0.031
+"('ESG Controversies Score', 'Human Rights Score', 'Shareholders Score')",0.031
+"('ESG Controversies Score', 'Human Rights Score', 'Workforce Score')",0.025
+"('ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score')",0.021
+"('ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score')",0.011
+"('ESG Controversies Score', 'Product Responsibility Score', 'Workforce Score')",0.009
+"('ESG Controversies Score', 'Resource Use Score', 'Shareholders Score')",0.027
+"('ESG Controversies Score', 'Resource Use Score', 'Workforce Score')",0.021
+"('ESG Controversies Score', 'Shareholders Score', 'Workforce Score')",0.015
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.038
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.013
+"('Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.042
+"('Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.012
+"('Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.020
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.033
+"('Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.052
+"('Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.035
+"('Emissions Score', 'Human Rights Score', 'Workforce Score')",0.036
+"('Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.034
+"('Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.011
+"('Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.016
+"('Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.036
+"('Emissions Score', 'Resource Use Score', 'Workforce Score')",0.035
+"('Emissions Score', 'Shareholders Score', 'Workforce Score')",0.018
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.037
+"('Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.045
+"('Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.039
+"('Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.036
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.035
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.017
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.021
+"('Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.034
+"('Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.023
+"('Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.030
+"('Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.031
+"('Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.024
+"('Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.031
+"('Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.027
+"('Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.021
+"('Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.016
+"('Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score')",0.034
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score')",0.032
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score')",0.023
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Resource Use Score')",0.028
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Shareholders Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Workforce Score')",0.023
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Shareholders Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Resource Use Score')",0.042
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Shareholders Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Workforce Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score')",0.031
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Resource Use Score')",0.033
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Shareholders Score')",0.041
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Workforce Score')",0.032
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Resource Use Score')",0.027
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Shareholders Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Workforce Score')",0.022
+"('CSR Strategy Score', 'Community Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'Resource Use Score', 'Workforce Score')",0.029
+"('CSR Strategy Score', 'Community Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score')",0.028
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score')",0.043
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score')",0.023
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Shareholders Score')",0.032
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Workforce Score')",0.025
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score')",0.042
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.028
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score')",0.038
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score')",0.035
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score')",0.027
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score')",0.031
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Shareholders Score')",0.037
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score')",0.022
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score')",0.026
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Workforce Score')",0.015
+"('CSR Strategy Score', 'ESG Controversies Score', 'Resource Use Score', 'Shareholders Score')",0.031
+"('CSR Strategy Score', 'ESG Controversies Score', 'Resource Use Score', 'Workforce Score')",0.022
+"('CSR Strategy Score', 'ESG Controversies Score', 'Shareholders Score', 'Workforce Score')",0.026
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.053
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.033
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.038
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.035
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.045
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.056
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.052
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.045
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.040
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.034
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.028
+"('CSR Strategy Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.046
+"('CSR Strategy Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.042
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.046
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.048
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.041
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.037
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.036
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.029
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.043
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.030
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.036
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('CSR Strategy Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.032
+"('CSR Strategy Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.031
+"('CSR Strategy Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.022
+"('CSR Strategy Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.026
+"('CSR Strategy Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score')",0.027
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score')",0.041
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score')",0.021
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score')",0.044
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Shareholders Score')",0.028
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Workforce Score')",0.025
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.027
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score')",0.032
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Workforce Score')",0.029
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score')",0.030
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score')",0.034
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Shareholders Score')",0.038
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Workforce Score')",0.030
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score')",0.028
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score')",0.026
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Workforce Score')",0.018
+"('Community Score', 'ESG Controversies Score', 'Resource Use Score', 'Shareholders Score')",0.035
+"('Community Score', 'ESG Controversies Score', 'Resource Use Score', 'Workforce Score')",0.029
+"('Community Score', 'ESG Controversies Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.048
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.029
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.053
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.033
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.032
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.041
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.058
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.046
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.043
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.044
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.028
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.026
+"('Community Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.048
+"('Community Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.044
+"('Community Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.032
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.042
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.049
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.047
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.042
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.041
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.033
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.029
+"('Community Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.046
+"('Community Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.041
+"('Community Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.035
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.034
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.038
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.030
+"('Community Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.041
+"('Community Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('Community Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Community Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.035
+"('Community Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.028
+"('Community Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('Community Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.038
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.013
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.043
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.012
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.020
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.033
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.052
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.035
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.036
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.034
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.011
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.016
+"('ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.036
+"('ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.035
+"('ESG Controversies Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.018
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.038
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.048
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.039
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.037
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.036
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.017
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.022
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.023
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.031
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.031
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.025
+"('ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.032
+"('ESG Controversies Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.027
+"('ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.021
+"('ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.016
+"('ESG Controversies Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.042
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.062
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.041
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.044
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.045
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.017
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.025
+"('Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.044
+"('Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.045
+"('Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.024
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.052
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.037
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.038
+"('Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.054
+"('Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.052
+"('Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.021
+"('Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.046
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.040
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.037
+"('Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.049
+"('Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.046
+"('Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.035
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.025
+"('Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.031
+"('Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Shareholders Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score')",0.044
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score')",0.032
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score')",0.034
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Shareholders Score')",0.041
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Workforce Score')",0.032
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score')",0.028
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Workforce Score')",0.023
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Resource Use Score', 'Workforce Score')",0.029
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.061
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.059
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.054
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.050
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.053
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.050
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.034
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.042
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.032
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.042
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.029
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.053
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.034
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.050
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.045
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.052
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.041
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.034
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.028
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.046
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.041
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.043
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.042
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.037
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.030
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.044
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.038
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.031
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.037
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.027
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.033
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.031
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.022
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.026
+"('CSR Strategy Score', 'ESG Controversies Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.056
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.067
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.060
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.052
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.042
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.054
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.051
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.044
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.057
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.053
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.053
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.047
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.042
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('CSR Strategy Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.047
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.048
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.042
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.052
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.043
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.032
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.049
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.029
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.054
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.033
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.032
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.041
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.058
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.046
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.044
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.028
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.026
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.048
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.044
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.032
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.051
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.033
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.030
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.035
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.035
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.038
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.030
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.041
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.036
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.029
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('Community Score', 'ESG Controversies Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.050
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.067
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.052
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.051
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.054
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.034
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.034
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.054
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.058
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.046
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.043
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.058
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.048
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.044
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.032
+"('Community Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.049
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.047
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.042
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.053
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.050
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.046
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.041
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.035
+"('Community Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.042
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Community Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('Community Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.042
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.063
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.041
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.045
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.045
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.017
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.025
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.044
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.046
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.024
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.053
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.037
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.038
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.054
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.053
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.036
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.021
+"('ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.048
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.041
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.039
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.051
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.048
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.041
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.039
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.026
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.039
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.037
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.032
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.027
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.063
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.044
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.047
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.063
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.062
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.046
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.047
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.028
+"('Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.054
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.053
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.041
+"('Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.039
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.049
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.046
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.041
+"('Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score')",0.061
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score')",0.054
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Workforce Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.054
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.044
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.035
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.042
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.032
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.038
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.029
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.039
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.073
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.068
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.055
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.050
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.053
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.050
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.050
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.069
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.060
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.053
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.042
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.041
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.055
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.052
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.044
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.053
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.053
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.047
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.042
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.053
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.044
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.044
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.039
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.033
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.031
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.069
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.062
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.059
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.071
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.068
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('CSR Strategy Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.052
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.052
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.050
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.068
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.052
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.051
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.054
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.034
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.034
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.054
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.037
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.058
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.046
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.058
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.048
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.045
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.032
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.051
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.055
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.052
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.035
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.042
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.036
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.068
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.053
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.052
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.069
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.068
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.054
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.058
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.053
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.050
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.044
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.064
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.044
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.048
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.064
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.064
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.047
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.048
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.028
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.055
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.053
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.041
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.039
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.051
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.048
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.042
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.051
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.039
+"('ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.064
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.064
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.064
+"('Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score')",0.074
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score')",0.068
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score')",0.061
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score')",0.055
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Workforce Score')",0.061
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.052
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.054
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.057
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.053
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.037
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.043
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.045
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.073
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.068
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.063
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.076
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.073
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.068
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.061
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.050
+"('CSR Strategy Score', 'Community Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.070
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.062
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.060
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.071
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.069
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.055
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.053
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.050
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.044
+"('CSR Strategy Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.040
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.072
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.069
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.064
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.071
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.058
+"('CSR Strategy Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('CSR Strategy Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.052
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.069
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.053
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.053
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.070
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.069
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.056
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.055
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.038
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.057
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.061
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.058
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.048
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.055
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.052
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.047
+"('Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.044
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.069
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.068
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.069
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.057
+"('Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.065
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.065
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.050
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.065
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.049
+"('ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.051
+"('Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score')",0.074
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score')",0.068
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Workforce Score')",0.064
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score')",0.077
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Workforce Score')",0.074
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Shareholders Score', 'Workforce Score')",0.069
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.066
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.061
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.060
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.056
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.057
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.053
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.058
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.051
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.046
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.077
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.073
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.069
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.076
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.065
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.057
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.072
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.071
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.064
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.072
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.058
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.062
+"('CSR Strategy Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.054
+"('CSR Strategy Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.072
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.070
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.069
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.070
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.057
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.061
+"('Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.055
+"('Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.069
+"('ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.066
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score')",0.077
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Workforce Score')",0.074
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Shareholders Score', 'Workforce Score')",0.069
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.077
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.066
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.067
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.058
+"('CSR Strategy Score', 'Community Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.077
+"('CSR Strategy Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.073
+"('Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.070
+"('CSR Strategy Score', 'Community Score', 'ESG Controversies Score', 'Emissions Score', 'Environmental Innovation Score', 'Human Rights Score', 'Product Responsibility Score', 'Resource Use Score', 'Shareholders Score', 'Workforce Score')",0.077
