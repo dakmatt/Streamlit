@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
-import openpyxl
 
 #TODO: Configure Streamlit Page
 tab_image = Image.open("Quantcorner_Logo.png")
@@ -310,4 +309,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-#ยังไม่มี choice 10
+#ยังไม่มี choice 11
