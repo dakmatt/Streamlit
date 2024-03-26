@@ -40,7 +40,10 @@ def main():
             st.markdown("**2. Social** - This measures the management of relationships within the enterprise, including those with employees, customers, stakeholders, as well as considerations for well-being and human rights.")
             st.markdown("**3. Governance** - This indicates the management system within the company to ensure that operations are efficient and transparent.")
             st.markdown("In conclusion, ESG helps to build trust in the business by reflecting the duties of enterprises and outlining operation plans for long-term business development.")
-
+        #TODO: How to เริ่มต้นศึกษา Qaunt Article
+        with st.expander("💸 How to เริ่มต้นศึกษา Quant"):
+            img_study_quant = Image.open("study_quant.jpg")
+            st.image(img_study_quant, use_column_width=True)
 
 
 #TODO: Our Projects Section
