@@ -2,10 +2,12 @@
 import streamlit as st
 import pandas as pd
 from PIL import Image
+import openpyxl
 
 #TODO: Configure Streamlit Page
 tab_image = Image.open("Quantcorner_Logo.png")
 st.set_page_config(page_title="Quantkorner Team", page_icon=tab_image, initial_sidebar_state='collapsed')
+a=openpyxl
 
 
 
