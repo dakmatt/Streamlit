@@ -6,7 +6,7 @@ import openpyxl
 
 #TODO: Configure Streamlit Page
 tab_image = Image.open("Quantcorner_Logo.png")
-st.set_page_config(page_title="Quantkorner Team", page_icon=tab_image, initial_sidebar_state='collapsed')
+st.set_page_config(page_title="Quantkorner Teamss", page_icon=tab_image, initial_sidebar_state='collapsed')
 a=openpyxl
 
 
