@@ -41,7 +41,7 @@ def main():
             st.markdown("**3. Governance** - This indicates the management system within the company to ensure that operations are efficient and transparent.")
             st.markdown("In conclusion, ESG helps to build trust in the business by reflecting the duties of enterprises and outlining operation plans for long-term business development.")
         #TODO: How to เริ่มต้นศึกษา Qaunt Article
-        with st.expander("💸 How to เริ่มต้นศึกษา Quant"):
+        with st.expander("💸 How to เริ่มต้นศึกษา Quant (09/03/2024)"):
             img_study_quant = Image.open("study_quant.jpg")
             st.image(img_study_quant, use_column_width=True)
             st.subheader("How to เริ่มต้นศึกษา Quant")
