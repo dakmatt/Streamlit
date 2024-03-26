@@ -41,7 +41,7 @@ def main():
     elif choice == "🌎 ESG Knowledge":
         st.subheader("🌎 ESG Knowledge")
         #TODO: What is ESG? Article
-        with st.expander("What is ESG"):
+        with st.expander("📈 What is ESG"):
             img_what_is_esg = Image.open("what_is_esg.png")
             st.image(img_what_is_esg, use_column_width=True)
             st.subheader("What is ESG")
