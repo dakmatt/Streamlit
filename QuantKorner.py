@@ -17,7 +17,7 @@ def highlight_p_values(values):
         return ''
 def main():
     st.title("Hello from QuantKorner Team")
-    menu = ["🏠 Home", "🌎 What is ESG", "📈 Our Projects", "👨‍👦‍👦 Our Team Members"]
+    menu = ["🏠 Home", "🌎 ESG Knowledge", "📈 Our Projects", "👨‍👦‍👦 Our Team Members"]
     choice = st.sidebar.selectbox("Menu", menu)
 #TODO: Home Section
     if choice == "🏠 Home":
@@ -38,8 +38,11 @@ def main():
 
 
 #TODO: What is ESG Section       
-    elif choice == "🌎 What is ESG":
-        st.subheader("🌎 What is ESG")
+    elif choice == "🌎 ESG Knowledge":
+        st.subheader("🌎 ESG Knowledge")
+        with st.expander("What is ESG"):
+            img_what_is_esg = Image.open("what_is_esg.png")
+            st.image(img_what_is_esg, use_column_width=True)
 
 
 
