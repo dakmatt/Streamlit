@@ -24,17 +24,6 @@ def main():
         st.subheader("🏠 Home")
         with st.expander("How to เริ่มต้นศึกษา Quant"):
             st.write("How to เริ่มต้นศึกษา Quant")
-        with st.expander("esg - ev/ebitda"):
-            st.text("Results Linear Regression ESG - EV/EBITDA")
-            #TODO: Display Images
-            img = Image.open("esg-ev_ebitda.png")
-            st.image(img, use_column_width=True)
-            if st.button("ESG-Return Datasheet"):
-                df1 = pd.read_csv("ESG-Return.csv")
-                st.dataframe(df1)
-                if st.checkbox("Show Datasheet"):
-                    df2 = pd.read_excel("Linear_Regression_Coefficient_ESG_-_EVEbitda.xlsx")
-                    st.dataframe(df2)
 
 
 #TODO: What is ESG Section       
