@@ -46,13 +46,10 @@ def main():
             st.image(img_what_is_esg, use_column_width=True)
             st.subheader("What is ESG")
             st.write("")
-            st.markdown("ESG is business the operation styles which not only focus just the profit ut also focus on the sustainabilyty which have 3 main factors considered ")
-            #st.write("but also focus on the sustainabilyty which have 3 main factors considered  ")
-            st.markdown("**1. Environment** - Indicated responsibilities of the enterprise to environment")
-            st.write("                 for instance greenhouse gas, wasted and the pollution")
-            st.write("2. Social - Measure the relationships management in the enterprise between  ")
-            st.write("            employees, customers, stakeholders and also well being and human rights")
-            st.write("3. Governance - ")
+            st.markdown("ESG is business the operation styles which not only focus just the profit ut also focus on the sustainabilyty which have 3 main factors considered: ")
+            st.markdown("**1. Environment** - Indicated responsibilities of the enterprise to environment for instance greenhouse gas, wasted and the pollution ")
+            st.markdown("**2. Social** - Measure the relationships management in the enterprise between employees, customers, stakeholders and also well being and human rights ")
+            st.markdown("**3. Governance** - ")
 
 
 #TODO: Our Projects Section
