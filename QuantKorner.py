@@ -48,7 +48,7 @@ def main():
             st.write("")
             st.write("ESG is business the operation styles which not only focus just the profit  ")
             st.write("but also focus on the sustainabilyty which have 3 main factors considered  ")
-            st.markdown("*1. Environment* - Indicated responsibilities of the enterprise to environment")
+            st.markdown("**1. Environment** - Indicated responsibilities of the enterprise to environment")
             st.write("                 for instance greenhouse gas, wasted and the pollution")
             st.write("2. Social - Measure the relationships management in the enterprise between  ")
             st.write("            employees, customers, stakeholders and also well being and human rights")
