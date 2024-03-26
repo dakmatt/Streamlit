@@ -43,6 +43,11 @@ def main():
         with st.expander("What is ESG"):
             img_what_is_esg = Image.open("what_is_esg.png")
             st.image(img_what_is_esg, use_column_width=True)
+            st.subheader("What is ESG")
+            st.write("")
+            st.write("ESG is business the operation styles which not only focus just the profit  ")
+            st.write("but also focus on the sustainabilyty which have 3 main factors considered  ")
+            st.write("1. Earnings")
 
 
 
