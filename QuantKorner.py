@@ -76,7 +76,7 @@ def main():
                         st.success(f"You Selected {choice9}")
                     #TODO: Users Choose ESG - Return => P Values => 1 Factor
                     if choice9 == "1 Factor":
-                        df = pd.read_csv("Streamlit\ESG_Return\p_values\Regression_P-Value_ESG_-_Return_1factor.csv")
+                        df = pd.read_csv("ESG_Return/p_values/Regression_P-Value_ESG_-_Return_1factor.csv")
                         styled_df = df.style.apply(lambda x: x.map(highlight_p_values))
                         st.dataframe(styled_df)
                     #TODO: Users Choose ESG - Return => P Values => 2 Factor
