@@ -22,8 +22,7 @@ def main():
 #TODO: Home Section
     if choice == "🏠 Home":
         st.subheader("🏠 Home")
-        with st.expander("How to เริ่มต้นศึกษา Quant"):
-            st.write("How to เริ่มต้นศึกษา Quant")
+        st.markdown("Please Select Section In The Sidebar")
 
 
 #TODO: What is ESG Section       
