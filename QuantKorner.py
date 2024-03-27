@@ -77,7 +77,21 @@ def main():
             st.markdown("Furthermore, when running a single-variable linear regression, the only significant ESG variable for EV/EBITDA was Human Rights Score. The researcher attributes this to the lack of interaction terms in the model, which could explain why some variables became significant when combined but not when isolated.")
             st.write("")
             st.markdown("**Number of grandslam final played by Roger Federe is highly correlate to the number of electrical engineer in the mexico.**")
-            
+            img_grandslam = Image.open("grandslam.png")
+            st.image(img_grandslam, use_column_width=True)
+            st.markdown("Motivated by these findings, we went deeper into the cause-effect relationships using the PC algorithm, which tests for conditional independence between variable pairs. The output from this algorithm is represented in the network diagram below:")
+            img_causal = Image.open("Causality.png")
+            st.image(img_causal, use_column_width=True)
+            st.markdown("Interestingly, three of the four significant variables from the linear regressions are present in this network. However, contrary to expectations, returns and EV/EBITDA were removed during the PC Algorithm, suggesting that their relationships with the ESG variables may have been merely correlational.")
+            st.markdown("In the network, Shareholders Score is a cause of CSR Strategy Score, which in turn affects Emissions Score. However, the researcher does not see a clear connection between Resource Use Score being a cause of CSR Strategy Score and Emissions Score, and CSR Strategy Score being a cause of Workforce Score. The researcher hypothesizes that this could be due to the absence of other dominating variables in the network or a lack of understanding of the relationships.")
+            st.write("")
+            st.markdown("**In summary**, the researcher approached model building from both predictive (linear regression) and causal (PC algorithm) perspectives, using ESG variables as independent variables and returns and EV/EBITDA as dependent variables.")
+            st.markdown("For returns, although some ESG variables were significant in the linear regression, returns were removed during causal discovery, suggesting that the observed relationships may have been merely correlational.")
+            st.markdown("For EV/EBITDA, the results aligned with the linear regression, as EV/EBITDA was also removed from the network, indicating a potential correlation rather than a causal relationship.The study has limitations, including:")
+            st.markdown("1) The researcher used data only from 2022")
+            st.markdown("2)	If investor behavior in 2024 deviates significantly from 2022, the results may change.")
+            st.markdown("3)	The researcher included only ESG variables, returns, and EV/EBITDA in the network.")
+            st.markdown("Finally, the researcher concludes that although ESG research is still in its early stages, investments in ESG products are already worth billions of dollars. This study is intended as a prototype for ESG research in Thailand, which is also in its early stages, with the goal of leading to larger-scale, more comprehensive, and timely research that will benefit investors.")
 
 
 #TODO: Our Projects Section
