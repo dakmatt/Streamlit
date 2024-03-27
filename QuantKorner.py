@@ -354,12 +354,7 @@ def main():
         st.subheader("👨‍👦‍👦 Our Team Members")
         img_profiles = Image.open("Members.png")
         st.image(img_profiles, use_column_width=True)
-        #with st.expander("Name Eakunut"):
-            #st.write("Results Linear Regression ESG - EV/EBITDA")
-        
 
 
 if __name__ == '__main__':
     main()
-
-#ยังไม่มี choice 11
