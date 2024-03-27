@@ -63,6 +63,21 @@ def main():
         with st.expander("🌳ESG Predictive Power Thailand"):
             img_conclusion = Image.open("esg_predictive.png")
             st.image(img_conclusion, use_column_width=True)
+            st.subheader("ESG Predictive Power Thailand")
+            st.write("")
+            st.markdown("Businesses with good ESG (Environmental, Social, and Governance) practices reflect their ability to compete and potential for long-term growth.")
+            st.markdown("Since business is about solving problems, increasing positive impacts, and reducing negative impacts, it is the responsibility of businesses to be concerned with ESG.")
+            st.markdown("The source of funds in the business sector comes from investments in finance. This leads to the question of whether businesses with good ESG performance benefit investors.")
+            st.markdown("We specifically focus on two aspects: returns and investor sentiment, using EV/EBITDA (Enterprise Value to Earnings Before Interest, Taxes, Depreciation, and Amortization) as a proxy for stock premium.")
+            st.markdown("Before starting the research, we hypothesized that ESG would have a positive relationship with return rates, as sustainable growth should be reflected in returns. Additionally, we hypothesized that ESG would have a positive relationship with EV/EBITDA, as companies with good ESG scores should receive a premium valuation due to their impact on consumer choices.")
+            st.markdown("We began by running a simple linear regression, using ESG Factors (data from LSEG, using 2022 data as it was the most complete and closest to the current year, 2024) as the independent variables, and returns and EV/EBITDA as the dependent variables.")
+            st.markdown("Since linear regression assumes no multicollinearity among independent variables, we used the Variance Inflation Factor (VIF) to filter out correlated variables, removing those with a VIF greater than 10, leaving us with 10 independent variables.")
+            st.markdown("Additionally, we ran multiple linear regressions, varying the number of independent variables from 1 to 10, to gain insights into how the model's behavior changes.For the return linear regression, we found two significant variables: Emissions Score and Workforce Score, which remained significant in many cases as we added more variables. These variables had a positive relationship with returns, aligning with our hypothesis. Therefore, focusing on Emission Score and Workforce Score could increase the chances of higher returns.")
+            st.markdown("For the EV/EBITDA linear regression, we found four significant variables: Human Rights Score, Resource Use Score, CSR Strategy Score (which captures the communication of ESG practices), and Emission Score. The first three had a negative relationship, contrary to our hypothesis, while Emission Score had a positive relationship.")
+            st.markdown("Furthermore, when running a single-variable linear regression, the only significant ESG variable for EV/EBITDA was Human Rights Score. The researcher attributes this to the lack of interaction terms in the model, which could explain why some variables became significant when combined but not when isolated.")
+            st.write("")
+            st.markdown("**Number of grandslam final played by Roger Federe is highly correlate to the number of electrical engineer in the mexico.**")
+            
 
 
 #TODO: Our Projects Section
